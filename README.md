@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alex Bretones 👨🏻‍💻
+
+![header-alexbretones](https://user-images.githubusercontent.com/30421415/88776998-0604f600-d187-11ea-85b6-3dbec5e9b4e8.png)
 
 <!--
 **AlexBHdez/alexbhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
