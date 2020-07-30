@@ -33,4 +33,5 @@ const profile = {
 }
 ```
 
+<img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-stats.png" width="200">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=alexbhdez&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/alexbhdez/github-readme-stats)
