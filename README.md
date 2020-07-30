@@ -6,7 +6,7 @@
 
 [![Linkedin: abretones](https://img.shields.io/badge/-alexbhdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abretones/)](https://www.linkedin.com/in/abretones/)
 ![GitHub followers](https://img.shields.io/github/followers/alexbhdez?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=alexbhdez.alexbhdez)
+[![](https://img.shields.io/badge/mail-abhbretones%40gmail.com-red)](mailto:abhbretones@gmail.com)
 
 ```js
 const profile = {
@@ -32,5 +32,3 @@ const profile = {
   status: 'Working on Quipu as frontEnd Developer'
 }
 ```
-
-<img src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/footer-image.png">
