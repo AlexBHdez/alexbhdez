@@ -33,6 +33,6 @@ const profile = {
 }
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-stats.png" width="200">
+<img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-stats.png" width="270">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=alexbhdez&count_private=true&show_icons=true&theme=buefy)](https://github.com/alexbhdez)
