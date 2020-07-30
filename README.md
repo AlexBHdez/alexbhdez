@@ -32,3 +32,5 @@ const profile = {
   status: 'Working on Quipu as frontEnd Developer'
 }
 ```
+
+<img src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/footer-image.png">
