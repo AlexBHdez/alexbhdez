@@ -29,6 +29,6 @@ const profile = {
     databases: ['mongo'],
     misc: ['firebase', 'vercel', 'netlify', 'ssr', 'aws']
   },
-  status: 'Currently working on [Quipu](https://www.getquipu.com/en), a software to manage your business.'
+  status: 'Working on Quipu as frontEnd Developer'
 }
 ```
