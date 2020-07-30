@@ -1,7 +1,7 @@
-<h1>
-  <img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-profile.png" width="300">
-  Hi!, I'm Alex <img src="https://media.giphy.com/media/3o7aDbeo34WHHejJ2E/giphy.gif" width="25"/>
-</h1>
+<h2>
+  <img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-profile.png" width="200">
+  Hi!, I'm Alex Bretones <img src="https://media.giphy.com/media/3o7aDbeo34WHHejJ2E/giphy.gif" width="25"/>
+</h2>
 <p>I’m a frontEnd Developer based in Barcelona, Spain, specialized in React and with strong design and visual skills due to my years of experience as graphic designer.</p>
 
 [![Linkedin: abretones](https://img.shields.io/badge/-alexbhdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abretones/)](https://www.linkedin.com/in/abretones/)
