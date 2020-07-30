@@ -1,7 +1,7 @@
-<img align="right" src="https://user-images.githubusercontent.com/30421415/88776998-0604f600-d187-11ea-85b6-3dbec5e9b4e8.png" width="230">
-<h2>Hi coder!, Take a look at my proooofile <img src="https://media.giphy.com/media/3o7aDbeo34WHHejJ2E/giphy.gif" width="25"/></h2>
+<img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-profile.png" width="300">
 
-<p>I’m a frontEnd Developer based in Barcelona, Spain, specialized in React and with strong design and visual skills due to my years of experience as graphic designer.</p>
+### Hi coder!, Take a look at my proooofile <img src="https://media.giphy.com/media/3o7aDbeo34WHHejJ2E/giphy.gif" width="25"/>
+I’m a frontEnd Developer based in Barcelona, Spain, specialized in React and with strong design and visual skills due to my years of experience as graphic designer.
 
 [![Linkedin: abretones](https://img.shields.io/badge/-alexbhdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abretones/)](https://www.linkedin.com/in/abretones/)
 ![GitHub followers](https://img.shields.io/github/followers/alexbhdez?label=Follow&style=social)
