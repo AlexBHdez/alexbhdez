@@ -3,7 +3,7 @@
 
 <p>I’m a frontEnd Developer based in Barcelona, Spain, specialized in React and with strong design and visual skills due to my years of experience as graphic designer.</p>
 
-[![Linkedin: abretones](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/abretones/)
+[![Linkedin: abretones](https://img.shields.io/badge/-alexbhdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abretones/)](https://www.linkedin.com/in/abretones/)
 ![GitHub followers](https://img.shields.io/github/followers/alexbhdez?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=alexbhdez.alexbhdez)
 
