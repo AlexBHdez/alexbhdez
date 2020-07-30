@@ -33,4 +33,4 @@ const profile = {
 }
 ```
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=alexbhdez)](https://github.com/alexbhdez/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=alexbhdez)](https://github.com/alexbhdez/github-readme-statsusername=alexbhdez&count_private=true&show_icons=true&theme=gruvbox)
