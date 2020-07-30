@@ -32,3 +32,5 @@ const profile = {
   status: 'Working on Quipu as frontEnd Developer'
 }
 ```
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=alexbhdez)](https://github.com/alexbhdez/github-readme-stats)
