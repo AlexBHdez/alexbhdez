@@ -29,7 +29,7 @@ const profile = {
     databases: ['mongo'],
     misc: ['firebase', 'vercel', 'netlify', 'ssr', 'aws']
   },
-  status: 'Working on Quipu as frontEnd Developer'
+  status: 'Working at Gamestry as frontEnd Developer'
 }
 ```
 
